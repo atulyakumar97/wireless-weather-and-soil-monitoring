@@ -29,6 +29,9 @@ Publish Volume : 1	<br>
 Publish Year : 2018	<br>
 Publish Edition : first	<br>
 Pages : 90	<br>
-Book Price : 0	<br>
 Language: English	<br>
 ISSUE Date: 13-04-2018
+
+# License and Copyright
+
+Licensed under the [MIT License](LICENSE)
